@@ -1,0 +1,1 @@
+const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=6a18c8861f5f46128f39a769d57a7ee9&page=1&pageSize=${this.props.pageSize}`;
